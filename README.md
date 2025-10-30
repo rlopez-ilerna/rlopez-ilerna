@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 ¡Hola, bienvenido a mi perfil!
+Soy estudiante de Desarrollo de Aplicaciones Web (DAW) 
+me gusta la tecnología, el código y el aprender. 🚀
+-----------------------------------------------------------------------
+🧠 Sobre mí
+🔭 Actualmente estoy estudiando DDesarrollo de Aplicaciones Web (DAW).
+🌱 Estoy aprendiendo cositas nuevas y muy interesantes cada día.
+👯 Me encanta seguir aprendiendo y mejorando mis habilidades.
+😄 Pronombres: ella.
+⚡ Dato curioso: me encanta leer.
 
-<!--
-**rlopez-ilerna/rlopez-ilerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Te dejo un enlace para visitar mi perfil de GitHub: [Pulsa aquí](https://github.com/rlopez-ilerna)
+-----------------------------------------------------------------------
+📫 Cómo contactarme: rociolopezmunoz04@alumnos.ilerna.com
+-----------------------------------------------------------------------
+✨ Gracias por visitar mi perfil.
