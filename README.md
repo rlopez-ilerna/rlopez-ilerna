@@ -17,6 +17,8 @@ Me gusta la **tecnología**, el **código** y el **aprender**. 🚀
 
 ⚡ Dato curioso: **me encanta leer**.  
 
+---
+
 💬 Te dejo un enlace para visitar mi perfil de GitHub:  
 👉 [**Pulsa aquí**](https://github.com/rlopez-ilerna)  
 
